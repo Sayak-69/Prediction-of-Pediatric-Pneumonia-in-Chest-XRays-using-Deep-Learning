@@ -1,3 +1,4 @@
+# Dataset: https://www.kaggle.com/datasets/andrewmvd/pediatric-pneumonia-chest-xray/code
 # Prediction-of-Pediatric-Pneumonia-in-Chest-XRays-using-Deep-Learning
 # Abstract
 Pneumonia is a potentially life-threatening infection, especially dangerous for children under
